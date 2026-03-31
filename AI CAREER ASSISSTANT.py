@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # -------------------------------
 # PAGE TITLE
 # -------------------------------
-st.title("🤖 AI Digital Career Assistant")
+st.title(" AI Digital Career Assistant")
 
 st.write("Answer a few questions to get your ideal career recommendation!")
 
