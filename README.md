@@ -2,30 +2,30 @@
 
 link for AI-- CAREER--ASSISSTANT app:http://localhost:8501
 
-# 🤖 AI Career Assistant (AI/ML Project)
+#  AI Career Assistant (AI/ML Project)
 
-## 📌 Project Overview
+##  Project Overview
 
 The **AI Career Assistant** is a machine learning-based web application that helps users get career guidance based on their skills, interests, and inputs.
 It uses data analysis and ML models to suggest suitable career paths.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🔍 Career prediction using Machine Learning
+* Career prediction using Machine Learning
   
-* 📊 Data visualization using graphs
+* Data visualization using graphs
  
-* 🧠 Smart suggestions based on user input
+*  Smart suggestions based on user input
  
-* 🌐 Interactive web app using Streamlit
+*  Interactive web app using Streamlit
   
-* 📈 Uses libraries like Pandas, Scikit-learn, and Matplotlib
+*  Uses libraries like Pandas, Scikit-learn, and Matplotlib
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python 3.13
   
@@ -39,7 +39,7 @@ It uses data analysis and ML models to suggest suitable career paths.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 AI_CAREER_ASSISTANT.py   # Main application file
@@ -49,7 +49,7 @@ README.md               # Project documentation
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Open Project
 
@@ -80,7 +80,7 @@ streamlit run AI_CAREER_ASSISTANT.py
 
 ---
 
-## 📸 Output
+##  Output
 
 The application provides:
 
@@ -92,7 +92,7 @@ The application provides:
 
 ---
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 This project demonstrates:
 
@@ -104,7 +104,7 @@ This project demonstrates:
 
 ---
 
-## 📌 Note
+##  Note
 
 If you see red underline errors in VS Code, ignore them if the app runs successfully.
 The project works correctly when executed using Streamlit.
